@@ -1,7 +1,7 @@
-package cymru.asheiou.content;
+package fr.minuskube.inv.content;
 
-import cymru.asheiou.ClickableItem;
-import cymru.asheiou.SmartInventory;
+import fr.minuskube.inv.ClickableItem;
+import fr.minuskube.inv.SmartInventory;
 
 import java.util.HashSet;
 import java.util.Optional;

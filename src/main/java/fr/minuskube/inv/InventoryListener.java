@@ -1,4 +1,4 @@
-package cymru.asheiou;
+package fr.minuskube.inv;
 
 import java.util.function.Consumer;
 

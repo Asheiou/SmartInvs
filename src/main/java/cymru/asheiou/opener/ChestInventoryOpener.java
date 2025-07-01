@@ -1,8 +1,8 @@
-package fr.minuskube.inv.opener;
+package cymru.asheiou.opener;
 
 import com.google.common.base.Preconditions;
-import fr.minuskube.inv.InventoryManager;
-import fr.minuskube.inv.SmartInventory;
+import cymru.asheiou.InventoryManager;
+import cymru.asheiou.SmartInventory;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.inventory.InventoryType;

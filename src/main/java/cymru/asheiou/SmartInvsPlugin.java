@@ -1,4 +1,4 @@
-package fr.minuskube.inv;
+package cymru.asheiou;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

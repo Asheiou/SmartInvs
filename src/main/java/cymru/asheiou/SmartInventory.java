@@ -1,8 +1,8 @@
-package fr.minuskube.inv;
+package cymru.asheiou;
 
-import fr.minuskube.inv.content.InventoryContents;
-import fr.minuskube.inv.content.InventoryProvider;
-import fr.minuskube.inv.opener.InventoryOpener;
+import cymru.asheiou.content.InventoryContents;
+import cymru.asheiou.content.InventoryProvider;
+import cymru.asheiou.opener.InventoryOpener;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
 import org.bukkit.event.inventory.InventoryCloseEvent;

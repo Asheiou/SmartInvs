@@ -1,7 +1,7 @@
-package fr.minuskube.inv.content;
+package cymru.asheiou.content;
 
-import fr.minuskube.inv.ClickableItem;
-import fr.minuskube.inv.SmartInventory;
+import cymru.asheiou.ClickableItem;
+import cymru.asheiou.SmartInventory;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;

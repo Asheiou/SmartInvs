@@ -1,4 +1,4 @@
-package fr.minuskube.inv.content;
+package cymru.asheiou.content;
 
 public class SlotPos {
 

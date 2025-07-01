@@ -1,6 +1,6 @@
-package fr.minuskube.inv.content;
+package cymru.asheiou.content;
 
-import fr.minuskube.inv.ClickableItem;
+import cymru.asheiou.ClickableItem;
 
 import java.util.Arrays;
 

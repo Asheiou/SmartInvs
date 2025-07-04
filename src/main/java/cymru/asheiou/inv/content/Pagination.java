@@ -1,6 +1,6 @@
-package cymru.asheiou.content;
+package cymru.asheiou.inv.content;
 
-import cymru.asheiou.ClickableItem;
+import cymru.asheiou.inv.ClickableItem;
 
 import java.util.Arrays;
 

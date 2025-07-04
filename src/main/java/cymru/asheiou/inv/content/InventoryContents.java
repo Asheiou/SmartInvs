@@ -1,7 +1,7 @@
-package cymru.asheiou.content;
+package cymru.asheiou.inv.content;
 
-import cymru.asheiou.ClickableItem;
-import cymru.asheiou.SmartInventory;
+import cymru.asheiou.inv.ClickableItem;
+import cymru.asheiou.inv.SmartInventory;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;

@@ -1,9 +1,9 @@
-package cymru.asheiou;
+package cymru.asheiou.inv;
 
-import cymru.asheiou.content.InventoryContents;
-import cymru.asheiou.opener.ChestInventoryOpener;
-import cymru.asheiou.opener.InventoryOpener;
-import cymru.asheiou.opener.SpecialInventoryOpener;
+import cymru.asheiou.inv.content.InventoryContents;
+import cymru.asheiou.inv.opener.ChestInventoryOpener;
+import cymru.asheiou.inv.opener.InventoryOpener;
+import cymru.asheiou.inv.opener.SpecialInventoryOpener;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

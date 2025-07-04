@@ -1,8 +1,8 @@
-package cymru.asheiou;
+package cymru.asheiou.inv;
 
-import cymru.asheiou.content.InventoryContents;
-import cymru.asheiou.content.InventoryProvider;
-import cymru.asheiou.opener.InventoryOpener;
+import cymru.asheiou.inv.content.InventoryContents;
+import cymru.asheiou.inv.content.InventoryProvider;
+import cymru.asheiou.inv.opener.InventoryOpener;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
 import org.bukkit.event.inventory.InventoryCloseEvent;

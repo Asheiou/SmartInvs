@@ -1,4 +1,4 @@
-package cymru.asheiou.content;
+package cymru.asheiou.inv.content;
 
 import org.bukkit.entity.Player;
 

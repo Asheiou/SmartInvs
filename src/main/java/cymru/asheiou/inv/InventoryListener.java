@@ -1,4 +1,4 @@
-package cymru.asheiou;
+package cymru.asheiou.inv;
 
 import java.util.function.Consumer;
 

@@ -1,4 +1,4 @@
-package cymru.asheiou;
+package cymru.asheiou.inv;
 
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.inventory.ItemStack;
